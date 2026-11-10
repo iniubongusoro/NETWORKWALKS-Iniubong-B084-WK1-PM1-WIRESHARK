@@ -110,3 +110,9 @@ To complete a comprehensive assessment of this incident, the lab successfully pr
 3. Load the corresponding network capture files (`.pcapng`) into Wireshark.
 4. Utilize localized traffic display filters such as `http.request.method == "POST"`, `tcp.flags.syn == 1`, or `sip` to rapidly extract the indicators documented above.
 # NETWORKWALKS-Iniubong-B084-WK1-PM1-WIRESHARK
+below is the screenshot from the lab work
+<p align="center">
+  <img src="./Screenshort%201.jpeg" alt="Screenshot 1" width="600" />
+  <br />
+  <img src="./Wireshark%20VoIP%20Lab%20Scorecard.png" alt="Wireshark VoIP Lab Scorecard" width="600" />
+</p>
